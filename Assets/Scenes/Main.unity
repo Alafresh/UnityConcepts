@@ -134,7 +134,7 @@ GameObject:
   - component: {fileID: 45873165}
   - component: {fileID: 45873164}
   m_Layer: 0
-  m_Name: Planes_14
+  m_Name: BG
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -217,7 +217,7 @@ GameObject:
   - component: {fileID: 106353161}
   - component: {fileID: 106353160}
   m_Layer: 0
-  m_Name: Planes_0
+  m_Name: Player
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
